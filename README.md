@@ -2,7 +2,7 @@
   
 Aplicação web para explorar Pokémon com dados da [PokéAPI](https://pokeapi.co): busca, filtro por tipo, favoritos e página de detalhes.
 
-**Demo:** _(cole aqui o link da Vercel)_
+**Demo: https://pokedex-z6cd.vercel.app**
 
 ![Tela principal](docs/lista.png)
 ![Detalhe](docs/detalhe.png)
@@ -13,7 +13,7 @@ Aplicação web para explorar Pokémon com dados da [PokéAPI](https://pokeapi.c
 - Filtros guardados na URL (`?q=pika&tipo=electric&favoritos=1`): dá para recarregar, voltar e compartilhar.
 - Favoritos salvos no `localStorage`, sincronizados entre componentes e abas.
 - Página de detalhes com status base, altura, peso, habilidades, descrição e navegação para o anterior/próximo.
-- Estados de **carregamento, erro, vazio e sucesso** em todas as telas (skeletons, botão "Tentar novamente", mensagens de lista vazia, aviso ao favoritar).
+- Estados de **carregamento, erro, vazio e sucesso** em todasas telas (skeletons, botão "Tentar novamente", mensagens de lista vazia, aviso ao favoritar).
 - Responsivo (1 a 4 colunas) e com modo escuro automático.
 
 ## Stack
