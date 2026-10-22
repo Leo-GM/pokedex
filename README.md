@@ -1,5 +1,5 @@
 # Pokédex
-
+  
 Aplicação web para explorar Pokémon com dados da [PokéAPI](https://pokeapi.co): busca, filtro por tipo, favoritos e página de detalhes.
 
 **Demo:** _(cole aqui o link da Vercel)_
@@ -50,3 +50,5 @@ lib/                 cliente da API, tipos e funções utilitárias
 ## Uso de IA
 
 Este projeto foi desenvolvido com apoio de IA (Claude) para gerar a base do código e tirar dúvidas. Revisei, executei e adaptei o código, e consigo explicar cada parte dele.
+
+## VulcaNET
